@@ -1,0 +1,6 @@
+repository\BookRepository.class
+service\Library.class
+model\Reader.class
+org\example\Main.class
+model\Book.class
+repository\IBookRepository.class
